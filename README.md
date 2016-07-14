@@ -1,0 +1,1 @@
+Multi_searc is an application to allow users to search via mulitple search engines, with one search box. This is ideal for comparing results, or using saving time using search engines that offer rewards in return for searches. 
